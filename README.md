@@ -1,3 +1,3 @@
-##Lab2 
-#Submodules in lab:
+# Lab2 
+## Submodules in lab:
 	geometric_lib
